@@ -77,6 +77,22 @@ If Git is giving you too much trouble:
 
 ---
 
+## 🤖 AI-Assisted Coding & IDEs
+
+### Which IDE should I use?
+We recommend **VS Code** (Visual Studio Code) or **Cursor**.
+
+### Which ones are free for AI coding?
+1. **VS Code + Codeium:** VS Code is free, and [Codeium](https://codeium.com/) offers a powerful **Free Forever** tier for individuals.
+2. **Cursor:** An AI-native IDE (fork of VS Code) that is built for AI coding. It has a **Free** tier with limited AI requests per month.
+3. **VS Code + Tabnine:** [Tabnine](https://www.tabnine.com/) has a free basic tier for code completions.
+4. **GitHub Copilot:** While usually a paid service ($10/mo), it is **FREE** for verified students, teachers, and maintainers of popular open-source projects.
+
+### Can I use these in WSL?
+Yes! Both VS Code and Cursor work perfectly with WSL. Just run `code .` or `cursor .` from your WSL terminal to open your project.
+
+---
+
 ## 📖 Useful Resources
 - [GitHub Best Practices for Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories)
 - [Official GitHub Desktop](https://desktop.github.com/) (Great for those who prefer a GUI over CLI!)
